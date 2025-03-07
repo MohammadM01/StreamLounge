@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/StreamLounge.git
+   git clone https://github.com/MohammadM01/StreamLounge.git
    cd StreamLounge
    ```
 
@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
    cd frontend
    npm install
    ```
-   Create a `.env` file in the frontend directory:
+   Create a `.env.local` file in the frontend directory:
    ```env
    VITE_TMDB_API_KEY=your_tmdb_api_key_here
    ```
