@@ -1,3 +1,6 @@
+![Screenshot (72)](https://github.com/user-attachments/assets/12f82621-3eac-4b77-8498-9713b29ee4d9)
+![Screenshot (73)](https://github.com/user-attachments/assets/f6dd888b-de0e-4a52-9996-4248b3ec169a)
+![Screenshot (74)](https://github.com/user-attachments/assets/b2c48042-0697-44c0-bd3d-8e6d9170c74e)
 # StreamLounge 🎬
 
 StreamLounge is a modern movie discovery platform that helps users find and track trending movies. Built with React for the frontend and Node.js/Express and PostgresSQL for the backend, it provides a seamless movie browsing experience.
