@@ -1,6 +1,6 @@
 # StreamLounge 🎬
 
-StreamLounge is a modern movie discovery platform that helps users find and track trending movies. Built with React for the frontend and Node.js/Express for the backend, it provides a seamless movie browsing experience.
+StreamLounge is a modern movie discovery platform that helps users find and track trending movies. Built with React for the frontend and Node.js/Express and PostgresSQL for the backend, it provides a seamless movie browsing experience.
 
 ## Features ✨
 
@@ -103,7 +103,4 @@ Before you begin, ensure you have the following installed:
 
 ## Acknowledgments 🙏
 
-- [TMDB API](https://www.themoviedb.org/documentation/api) for providing movie data
-- [React Documentation](https://reactjs.org/)
-- [Express Documentation](https://expressjs.com/)
-- [PostgreSQL Documentation](https://www.postgresql.org/)
+- [TMDB API](https://www.themoviedb.org/documentation/api) for providing movie data..
